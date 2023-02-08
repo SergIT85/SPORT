@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/startFragment">
+
+    <fragment
+        android:id="@+id/mockNewsFragment"
+        android:name="play.wellsport.app.presentation.mockview.MockNewsFragment"
+        android:label="mock_fragment"
+        tools:layout="@layout/fragment_mock_news" />
+    <fragment
+        android:id="@+id/vebViewFragment"
+        android:name="play.wellsport.app.presentation.webview.WebViewFragment"
+        android:label="fragment_veb_view"
+        tools:layout="@layout/fragment_web_view" />
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="play.wellsport.app.presentation.startfragment.StartFragment"
+        android:label="fragment_start"
+        tools:layout="@layout/fragment_start" >
+        <action
+            android:id="@+id/action_startFragment_to_mockNewsFragment"
+            app:destination="@id/mockNewsFragment" />
+        <action
+            android:id="@+id/action_startFragment_to_vebViewFragment"
+            app:destination="@id/vebViewFragment" />
+        <action
+            android:id="@+id/action_startFragment_to_noInternet"
+            app:destination="@id/noInternet" />
+    </fragment>
+    <fragment
+        android:id="@+id/noInternet"
+        android:name="play.wellsport.app.presentation.nointernet.NoInternet"
+        android:label="fragment_no_internet"
+        tools:layout="@layout/fragment_no_internet" />
+
+</navigation>

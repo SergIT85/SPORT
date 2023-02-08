@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931700506361",
+    "project_id": "korso-44fea",
+    "storage_bucket": "korso-44fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931700506361:android:52149aeb51995984c02c28",
+        "android_client_info": {
+          "package_name": "play.wellsport.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931700506361-6pgkli9tcuqsugl9sud5djprt0jpn1if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqbJFB5UDSnNIBDJkaHtGGb74f6pT6a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931700506361-6pgkli9tcuqsugl9sud5djprt0jpn1if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

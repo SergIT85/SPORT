@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SPORT</string>
+    <string name="news1">Melissa Reddy Saudi Arabia not giving up on Messi |
+    Salah, KDB targeted for future Saudi Arabia has not thrown in the towel on
+    convincing Lionel Messi to join Cristiano Ronaldo in elevating their league,
+    despite discussions with PSG over a new contract.</string>
+    <string name="news2" tools:ignore="StringEscaping">Al Nassr Cristiano Ronaldo, right, fights for the ball against Al Ettifaq Abdallah Khateeb Football Al Nassr boss: Ronaldo will return to Europe Cristiano Ronaldo will return to play again in Europe after his spell in Saudi Arabia, according to his head coach at Al Nassr.</string>
+    <string name="news3" tools:ignore="StringEscaping">Transfer headlines Arsenal fresh £70m Caicedo bid rejected by Brighton Arsenal have had their fresh 70m bid for midfielder Moises Caicedo rejected by Brighton.</string>
+    <string name="news4" tools:ignore="StringEscaping">Paper Talk Papers: Barca want Chelsea loanee Felix  Man Utd receive 10 Elanga loan offers All the top stories and transfer rumours from Mondays newspapers</string>
+    <string name="news5" tools:ignore="StringEscaping">Arsenal secured victory in the Women FA Cup to reach the fifth round Football Arsenal and Man City record big victories to reach Women FA Cup fifth round Arsenal and </string>
+    <string name="news6" tools:ignore="StringEscaping">Football Dundee United 0 2 Celtic Highlights of the Scottish Premiership match between Dundee United and Celtic.</string>
+    <string name="news7" tools:ignore="StringEscaping">Argentina midfielder Enzo Fernandez won the Best Young Player award at the 2022 World Cup Chelsea  Chelsea not giving up on Fernandez deal before Tuesday deadline Chelsea have not given up on trying to sign Benfica midfielder Enzo Fernandez before January transfer window closes on Tuesday.</string>
+    <string name="news8" tools:ignore="StringEscaping">Football Aberdeen appoint Robson interim manager after Goodwin sacking Aberdeen have appointed Barry Robson as interim first team manager following Jim Goodwin sacking.</string>
+    <string name="news9" tools:ignore="TypographyDashes">John Egan made it 3-3 deep into injury-time Reports and Highlights Sheff Utd late goal denies fearless Wrexham in six-goal thriller John Egan scored a 95th-minute equaliser to salvage an FA Cup fourth-round replay with Wrexham after a thrilling 3 3 draw at the Racecourse Ground.</string>
+    <string name="news10" tools:ignore="StringEscaping">Rangers James Tavernier celebrates scoring a penalty to make it 1 0 Scottish Premiership match reports Rangers extend unbeaten run under Beale Rangers remain unbeaten under Michael Beale after a controversy filled victory over 10 man St Johnstone at Ibrox.</string>
+    <string name="news11" tools:ignore="StringEscaping">Aaron Mooy (left) and Jota were Celtic goalscorers in their 2 0 win at Dundee United Scottish Premiership match reports Celtic restore nine point lead at top with win over Dundee Utd Celtic restored their nine point lead at the top of the Scottish </string>
+    <string name="news12" tools:ignore="StringEscaping">Josh Laurent celebrates scoring Stoke second against Stevenage Stoke see off Stevenage to reach fifth round  Evans Ref admitted mistake on pen Stevenage FA Cup run came to an end as they were defeated 3 1 by Stoke in an entertaining tie.</string>
+    <string name="news13">Liverpool Robertson: We let the fans down  Klopp We will not fall apart Andrew Robertson said Liverpool let their fans down in their FA Cup fourth-round loss to Brighton while Jurgen Klopp vowed his struggling side will not fall apar.</string>
+    <string name="news14" tools:ignore="StringEscaping">Football Newcastle transfer rumours: Forest make approach to sign Shelvey With the 2023 January transfer window now open, we round up Newcastle done deals, plus the players linked with moves in and out of St James Park.</string>
+    <string name="news15" tools:ignore="StringEscaping">Newcastle have signed Anthony Gordon from Everton Gordon seals £45m Newcastle move  Tells Everton fans stick by the team Newcastle have completed the £45m transfer of Anthony Gordon from Everton making him the club second most expensive signing.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Для работы приложения необходим доступ к сети</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
